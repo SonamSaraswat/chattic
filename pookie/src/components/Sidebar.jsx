@@ -1,7 +1,5 @@
 import React, { useState,useEffect} from 'react'
 import {assets} from '../assets/assets'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome , faShieldHeart} from '@fortawesome/free-solid-svg-icons';
 import { useNavigate } from 'react-router-dom'
 
 
